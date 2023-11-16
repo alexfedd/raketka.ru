@@ -15,5 +15,5 @@
 
 
 ## Картинки
-![](https://github.com/alexfedd/alexfedd.kz/blob/main/alexfedd.kz.jpg)
+![](https://github.com/alexfedd/raketka.ru/blob/bf2b18bfbb6d62b37231e1c680a1489b8c19e2d9/alexfedd.github.io_raketka_.jpg)
 
