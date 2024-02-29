@@ -11,6 +11,8 @@
 
 ## 🔗 Ссылка
 
+[Исходный код](https://github.com/alexfedd/alexfedd.github.io/tree/main/raketka)
+
  [Сайт для интернет-курсов](https://alexfedd.github.io/raketka)
 
 
